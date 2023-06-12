@@ -5,8 +5,8 @@ import tour4 from "./images/tour-4.jpeg";
 export const navLinks = [
   { id: 1, href: "#home", content: "home" },
   { id: 2, href: "#about", content: "about" },
-  { id: 3, href: "#service", content: "service" },
-  { id: 4, href: "#tour", content: "tour" },
+  { id: 3, href: "#services", content: "services" },
+  { id: 4, href: "#tours", content: "tours" },
 ];
 
 export const socialLinks = [

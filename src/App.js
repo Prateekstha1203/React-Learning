@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
-import AmazonBook from "./component/AmazonBook/AmazonBook";
-import TourWebsite from "./component/TourWebisteTemplete/TourWebsite";
+// import AmazonBook from "./component/AmazonBook/AmazonBook";
+import TourWebsite from "./component/BackRoadTourTemplete/TourWebsite";
 
 function App() {
   return (

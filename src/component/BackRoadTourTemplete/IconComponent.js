@@ -1,5 +1,4 @@
 import React from "react";
-import { navLinks } from "./data";
 import { socialLinks } from "./data";
 
 const IconComponent = ({ parentClassName, childClassName }) => {
@@ -11,6 +10,7 @@ const IconComponent = ({ parentClassName, childClassName }) => {
             <a
               href={socialLink.href}
               target="_blank"
+              rel="noreferrer"
               className={childClassName}
             >
               <i className={socialLink.icon}></i>

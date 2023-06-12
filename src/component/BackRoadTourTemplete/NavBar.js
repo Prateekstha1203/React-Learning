@@ -1,7 +1,6 @@
 import React from "react";
 import "./TourWebsite.css";
 import imgLogo from "./images/logo.svg";
-import { navLinks, socialLinks } from "./data";
 import NavComponent from "./NavComponent";
 import IconComponent from "./IconComponent";
 const NavBar = () => {
